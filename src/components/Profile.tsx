@@ -7,7 +7,10 @@ export function Profile() {
             <div>
                 <strong>Henrique Xaud</strong>
                 <p>
-                    <img src="icons/level.svg" alt="level" />
+                    <img src="icons/ovo.svg" alt="level" />
+                    {/* <img src="icons/pintinho.svg" alt="level" />
+                    <img src="icons/galinha.svg" alt="level" />
+                    <img src="icons/porco.svg" alt="level" /> */}
                     Level 1
                 </p>
             </div>

@@ -62,14 +62,16 @@
 }
 
 .countdownButtonActive {
-    background: var(--red);
+    background:#fc1f44;
 }
 
 .countdownButtonActive:not(:disabled):hover {
-    background: #a82c41;
+    background: var(--red);
 }
 
 .countdownButtonFinished {
-    background: var(--green);
+    background: var(--white);
+    color: var(--text);
+    
     cursor: not-allowed;
 }
