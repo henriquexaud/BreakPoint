@@ -1,0 +1,17 @@
+[
+    {
+        "img": "abra-o-livro.svg",
+        "description": "Leia um capítulo do seu livro atual",
+        "xp": 300
+    },
+    {
+        "img": "copo-de-agua.svg",
+        "description": "Beba um copo cheio de água",
+        "xp": 400
+    },
+    {
+        "img": "alongamento-de-pescoço.svg",
+        "description": "Alongue seu pescoço nas tres direções por 10 segundos",
+        "xp": 500
+    }
+]
