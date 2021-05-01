@@ -2,16 +2,26 @@
     {
         "img": "abra-o-livro.svg",
         "description": "Leia um capítulo do seu livro atual",
-        "xp": 300
+        "xp": 80
     },
     {
         "img": "copo-de-agua.svg",
         "description": "Beba um copo cheio de água",
-        "xp": 400
+        "xp": 45
+    },
+    {
+        "img": "pose-de-ioga.svg",
+        "description": "Deitar com as costas no chão por 5 minutos",
+        "xp": 60
+    },
+    {
+        "img": "netflix.svg",
+        "description": "20 minutos de qualquer coisa",
+        "xp": 100
     },
     {
         "img": "alongamento-de-pescoço.svg",
         "description": "Alongue seu pescoço nas tres direções por 10 segundos",
-        "xp": 500
+        "xp": 50
     }
 ]
