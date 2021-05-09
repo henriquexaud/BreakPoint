@@ -8,9 +8,9 @@ export function Profile() {
 
     return (
         <div className={styles.profileContainer}>
-            <img src="https://avatars.githubusercontent.com/u/64939709?v=4" alt="Foto de Perfil" />
+            <img src="icons/morty-profile2.png" alt="Foto de Perfil" />
             <div>
-                <strong>Henrique Xaud</strong>
+                <strong>Morty Smith</strong>
                 <p>
 
                     <img src="icons/medal.svg" alt="level-1" />
