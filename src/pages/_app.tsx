@@ -1,4 +1,3 @@
-import { ChallengeProvider } from '../contexts/ChallengeContext'
 import '../styles/global.css'
 
 

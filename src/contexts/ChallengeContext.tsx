@@ -1,6 +1,5 @@
 import { createContext, useState, ReactNode, useEffect } from "react"
 import challenges from "../../challenges.json"
-import { CompletedChallenges } from "../components/CompletedChallenges";
 import Cookies from 'js-cookie';
 import { LevelUpModal } from "../components/levelUpModal";
 
@@ -9,8 +8,6 @@ interface Challenge {
     description: string;
     xp: number;
 }
-
-
 
 interface ChallengesContextData {
     level: number;
