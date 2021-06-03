@@ -27,14 +27,12 @@ export function ChallengeBox() {
                     <header>Ganhe {activeChallenge.xp} xp</header>
 
                     <main>
-
                         <img src={`icons/${activeChallenge.img}`} alt="objetivo" />
                         <strong>Novo Desafio</strong>
                         <p>{activeChallenge.description}</p>
-
                     </main>
-                    <footer>
 
+                    <footer>
                         <button
                             type='button'
                             onClick={handleChallengeSucceeded}>Completei
@@ -44,9 +42,7 @@ export function ChallengeBox() {
                             type='button'
                             onClick={handleChallengeFailed}>Desisti
                         </button>
-
                     </footer>
-
                 </div>
             ) : (
                 <div className={styles.challengeNotActive}>

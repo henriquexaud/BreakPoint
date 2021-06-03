@@ -19,7 +19,6 @@ interface HomeProps {
 }
 
 export default function Home(props: HomeProps) {
-
   console.log(props);
 
   return (
@@ -29,7 +28,6 @@ export default function Home(props: HomeProps) {
       challengeCompleted={props.challengeCompleted}
     >
       <div className={styles.container}>
-
         <Head>
           <title> BreakPoint </title>
         </Head>
@@ -53,7 +51,6 @@ export default function Home(props: HomeProps) {
 }
 
 export const getServerSideProps: GetServerSideProps = async (ctx) => {
-
   const { level, currentExperience, challengeCompleted } = ctx.req.cookies;
 
   return {
