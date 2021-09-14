@@ -1,4 +1,10 @@
 # BreakPoint
-Web application that turn your productive time into a mini-game.
+Aplicação web que gamifica o foco nos ciclos de estudo ou produção.
 
-Link Acess: https://break-point-beryl.vercel.app/
+Link para versão online: https://break-point-beryl.vercel.app/
+
+Versão de teste
+
+    No terminal: $ yarn dev
+
+    No navegador: http://localhost:3000
