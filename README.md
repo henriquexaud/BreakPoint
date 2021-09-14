@@ -5,8 +5,8 @@ Link para versão online: https://break-point-beryl.vercel.app/
 
 Versão de teste
 
-    Abra o projeto em sua IDE (recomendo VS Code)
+    1 - Abra o projeto em sua IDE (recomendo VS Code)
 
-    Digite no terminal: $ yarn dev
+    2 - Digite no terminal: $ yarn dev
 
-    Acesse no navegador: http://localhost:3000
+    3 - Acesse no navegador: http://localhost:3000
