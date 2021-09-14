@@ -5,6 +5,6 @@ Link para versão online: https://break-point-beryl.vercel.app/
 
 Versão de teste
 
-    No terminal: $ yarn dev
+    Digite no terminal: $ yarn dev
 
-    No navegador: http://localhost:3000
+    Acesse no navegador: http://localhost:3000
